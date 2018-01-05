@@ -1,9 +1,8 @@
 const a = 3;
 const b = 3;
-d = 4;
+const d = 4;
 
-const c =
-  'rewrewrwerewrweeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr';
+const c = 'rewrewrwerew';
 
 // console.log(a, b, c, d);
 
